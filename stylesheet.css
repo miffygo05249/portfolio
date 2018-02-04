@@ -5,10 +5,10 @@ h1 {
   background-color: #21FC02;
 }
 
-navbar.ul {
+ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 10px;
   overflow: hidden;
   background-color: #F202FC;
   
