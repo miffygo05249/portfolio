@@ -4,3 +4,34 @@ h1 {
   color: #FCFC02;
   background-color: #21FC02;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F202FC;
+  
+}
+
+li {
+  display: inline;
+  float: left;
+  text-align: center;
+  padding:
+  text-decoration: none;
+  
+  } 
+
+ li a {  
+  dislay block;
+  color: white;
+  text-decoration: none;
+  
+  }
+
+
+li a:hover {
+    background color: #02FCF3;
+  
+} 
