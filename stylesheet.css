@@ -5,6 +5,10 @@ h1 {
   background-color: #02FCF1;
 }
 
+h2 {
+  border-style: dotted;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
