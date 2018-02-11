@@ -6,9 +6,8 @@ h1 {
   border-style: dotted;
   border-color: #CACFD2;
   padding: 10px;
-  margin-right:500px;
-  float:left;
-  float:right;
+  margin-left: 2000;
+  margin-right: 2000;
 }
 
 ul {
