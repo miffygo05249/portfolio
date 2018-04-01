@@ -14,7 +14,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color:#02EBFC;  
+  background-color:#040707;  
   
 }
 
@@ -35,16 +35,6 @@ li {
     background-image: url("img_tree.gif"), url("paper.gif");
     background-color: #cccccc;
 }
-
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
 
 li a {
     display: block;
