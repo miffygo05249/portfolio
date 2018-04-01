@@ -18,6 +18,11 @@ ul {
   
 }
 
+body {
+     margin: 0;
+     background: url(background.png);
+ }
+
 li {
   display: inline;
   float: left;
