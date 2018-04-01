@@ -15,13 +15,6 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color:#040707;  
-  
-}
-
-body {
-     margin: 0;
-     background: url(background.png);
- }
 
 li {
   display: inline;
